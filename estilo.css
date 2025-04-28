@@ -461,6 +461,13 @@
         
         #contacto .titulo-seccion {
             margin-bottom: 20px;
+            text-align: center; /* Centra el título */
+            font-size: 22px; /* Tamaño de la fuente */
+            text-transform: uppercase; /* Convierte a mayúsculas */
+            color: #111135; /* Color del texto */
+            text-decoration: underline; /* Subraya el texto */
+            text-decoration-color: #d3d3d3; /* Color de la subrayado */
+            text-decoration-thickness: 5px; /* Grosor del subrayado */
         }
         
         #contacto .contenedor-contacto {
